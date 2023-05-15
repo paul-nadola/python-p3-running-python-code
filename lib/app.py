@@ -1,0 +1,8 @@
+# print("Hello world!")
+# print("Hello sun!")
+# print("Hello sky!")
+
+print("Hello world!", end=" ")
+print("Hello sun!", end="!! ")
+print('nice', end = "5  ")
+print("Hello sky!", end="!!!\n")
